@@ -1,5 +1,14 @@
-# 💫 About Me:
-# ¡Hola! Soy Mario 👋<br><br>## Joven Desarrollador Apasionado por el Código<br><br>### **¿Qué me motiva?**<br><br>🚀 Mi sed de conocimiento y mi deseo de crear soluciones innovadoras. Me encanta sumergirme en proyectos desafiantes y encontrar formas elegantes de resolver problemas.<br><br>### **¿Por qué trabajar conmigo?**<br><br>💡 Soy un apasionado autodidacta que se adapta rápidamente a nuevas tecnologías. Mi enfoque es siempre la calidad del código y la entrega puntual. Además, soy un gran colaborador en equipo y siempre estoy dispuesto a aprender de mis colegas.
+# **¡Hola! Soy Mario 👋**
+
+## **Joven Desarrollador Apasionado por el Código**
+
+### **¿Qué me motiva?**
+
+🚀 Mi sed de conocimiento y mi deseo de crear soluciones innovadoras. Me encanta sumergirme en proyectos desafiantes y encontrar formas elegantes de resolver problemas.
+
+### **¿Por qué trabajar conmigo?**
+
+💡 Soy un apasionado autodidacta que se adapta rápidamente a nuevas tecnologías. Mi enfoque es siempre la calidad del código y la entrega puntual. Además, soy un gran colaborador en equipo y siempre estoy dispuesto a aprender de mis colegas.
 
 
 ## 🌐 Socials:
