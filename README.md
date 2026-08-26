@@ -5,7 +5,7 @@
 
 ### 👨🏽‍💻 Sobre mi:
 
-• 📚 Actualmente estoy aprendiendo: **Desarrollo Banckend con Python y FastAPI**
+• 📚 Actualmente estoy aprendiendo: **Desarrollo Backend con Python y FastAPI**
 
 • ℹ️ Hobbies: **Pintado de miniaturas 🖌️ | Videojuegos 🎮 | Música 🎧 **
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <!-- Tarjeta de Estadísticas General -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/mariovelascodev/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=mariovelascodev&show_icons=true&theme=dracula&count_private=true" alt="Estadísticas de GitHub" />
   </a>
   <br /><br />
