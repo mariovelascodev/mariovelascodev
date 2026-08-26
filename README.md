@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/45201545/99141222-83983780-268c-11eb-90eb-ba70d213d088.gif" alt="GitHub Logo" width="150" height="150" />
 
-# Hola 👋🏽, Soy Mario Velasco
+# Hola 👋🏽, Soy Mario Velasco Cañadas
 
 ## 👨🏽‍💻 Sobre mi:
 
