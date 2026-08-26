@@ -26,11 +26,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mariovelascodev&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de mariovelascodev" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariovelascodev&show_icons=true&theme=tokyonight" alt="Estadísticas de mariovelascodev" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariovelascodev&theme=tokyonight&layout=compact&count_private=true" alt="Lenguajes más usados por mariovelascodev" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariovelascodev&theme=tokyonight&layout=compact" alt="Lenguajes más usados por mariovelascodev" />
   </a>
 </p>
 </div>
