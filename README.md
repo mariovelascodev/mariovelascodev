@@ -36,7 +36,7 @@
 <!-- LinkedIn -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariovelascoca%C3%B1adas/) <!-- Bluesky --> [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/mariovelascodev.bsky.social)<!-- Mastodon --> [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@mariovelascodev) <!-- DEV Community --> <!--[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white)](https://dev.to/mariovelascodev)-->
 
-### 📊 Estadísticas
+## 📊 Estadísticas
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
