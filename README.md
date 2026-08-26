@@ -25,8 +25,12 @@
 ### 💻 Trabajos
 
 <p align="center">
-  <a href="https://github.com/git-streak-stats/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariovelascodev&theme=tokyonight" alt="Racha de contribuciones" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=mariovelascodev&show_icons=true&theme=tokyonight" alt="Estadísticas de mariovelascodev" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mariovelascodev&theme=tokyonight&layout=compact" alt="Lenguajes más usados por mariovelascodev" />
   </a>
 </p>
 </div>
