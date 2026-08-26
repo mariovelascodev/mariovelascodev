@@ -25,19 +25,12 @@
 ### 💻 Trabajos
 
 <p align="center">
-  <!-- Tarjeta de Estadísticas General -->
-  <a href="https://github.com/mariovelascodev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mariovelascodev&show_icons=true&theme=dracula&count_private=true" alt="Estadísticas de GitHub" />
-  </a>
-  <br /><br />
-  <!-- Racha de Contribuciones -->
-  <a href="https://github.com/git-streak-stats/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariovelascodev&theme=dracula" alt="Racha de GitHub" />
-  </a>
-  <br /><br />
-  <!-- Lenguajes Más Usados -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariovelascodev&theme=dracula&layout=compact&count_private=true" alt="Lenguajes más usados" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mariovelascodev&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de mariovelascodev" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariovelascodev&theme=tokyonight&layout=compact&count_private=true" alt="Lenguajes más usados por mariovelascodev" />
   </a>
 </p>
 </div>
