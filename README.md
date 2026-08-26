@@ -28,9 +28,6 @@
 <!---Git--->
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) <!-- Badge de GitHub --> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariovelascodev) <!-- Badge de GitLab --> [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/mariovelascodev)
 
-
-
- 
 ### 📱 Redes Sociales 
 
 <!-- LinkedIn -->
